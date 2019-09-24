@@ -1,0 +1,44 @@
+/*
+body{
+    background-color: #E6E6E6;font-family: monospace;
+}
+*/
+/*
+.nav {
+    height: 85px;
+    background: #663;
+}
+*/
+.navbar-inverse{
+    background-color: #f66;
+}
+.btn-success{
+    background-color: aqua;
+    
+}
+.collapse{
+    background-color: aquamarine
+}
+
+.btn {
+}
+.btn.btn-default{
+    background-color: burlywood
+}
+.navbar-brand {
+background-color: maroon
+}
+.btn {
+}
+.btn.btn-success{
+}
+.btn.btn-lg{
+    background-color: deeppink
+}
+.btn {
+}
+.btn.btn-default{
+}
+.btn.btn-lg{
+    background-color: orangered
+}
